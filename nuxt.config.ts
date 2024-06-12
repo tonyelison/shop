@@ -2,4 +2,5 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   css: ["~/assets/stylesheets/main.css"],
+  modules: ["@nuxt/eslint"],
 });
