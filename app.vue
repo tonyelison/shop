@@ -1,4 +1,12 @@
+<script setup lang="ts">
+useHead({
+  title: "My App",
+  bodyAttrs: {
+    class: "app",
+  },
+});
+</script>
+
 <template>
-  <div>Hello, World!</div>
   <NuxtPage />
 </template>
