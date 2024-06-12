@@ -1,8 +1,8 @@
 <script setup lang="ts">
 useHead({
-  title: "My App",
+  title: 'My App',
   bodyAttrs: {
-    class: "app",
+    class: 'app',
   },
 });
 </script>
